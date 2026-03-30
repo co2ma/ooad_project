@@ -1,6 +1,9 @@
 # 물류 입고 출고 PDA Application 제작
 물류센터에서 사용 되는 입고, 출고, 관리용 App을 제작 한다
 
+<img width="474" height="444" alt="image" src="https://github.com/user-attachments/assets/507b666d-3efc-40b1-b87c-ed664e5ef5f7" />
+
+
 ## 개발 기간
 2024.05.01 ~ 2024.06.14
 
